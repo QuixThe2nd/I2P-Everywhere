@@ -6,7 +6,7 @@
 	"homepage_url": "https://github.com/QuixThe2nd/i2p-everywhere",
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "parsa@yazdani.au",
+			"id": "i2p-everywhere@yazdani.au",
 			"strict_min_version": "54.0"
 		}
 	},
